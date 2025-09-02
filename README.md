@@ -21,7 +21,8 @@ Ele visa agilizar o processo de administração dos produtos leiloados e fornece
  Funcionalidades do Sistema
 - Cadastro de novos produtos no banco de dados.  
 - Listagem de todos os itens cadastrados, exibindo nome, valor e status.  
-- Alteração do status do produto (ex.: "À Venda" → "Vendido").  
+- Alteração do status do produto (ex.: "À Venda"  "Vendido").  
 - Mensagens de confirmação para sucesso ou falha no cadastro.  
 - Integração com banco de dados **uc11** (tabela `produtos`).  
+
 
